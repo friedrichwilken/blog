@@ -14,3 +14,6 @@ hugo server #to start a local server to check the blog
 ```bash
 hugo new posts/myNewPost.md # to create a new post
 ```
+```bash
+hugo -t name-of-your-theme # to generate static files
+```
