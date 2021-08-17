@@ -1,6 +1,6 @@
 baseURL = "http://h.xjj.pub"
 languageCode = "en-us"
-title = "things friedrich should have learned"
+title = "things friedrich should know"
 copyright = "© Copyright notice"
 theme = "minima"
 paginate = 10
