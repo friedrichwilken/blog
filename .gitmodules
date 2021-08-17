@@ -1,0 +1,3 @@
+[submodule "things/themes/minima"]
+	path = things/themes/minima
+	url = https://github.com/mivinci/hugo-theme-minima.git
