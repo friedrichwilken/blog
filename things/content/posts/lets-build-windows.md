@@ -2,7 +2,7 @@
 title: "Lets Build Windows Boxes"
 date: 2021-08-18T19:23:35+02:00
 author: Friedrich Wilken
-description: how to create a new post
+description: building a windows vagrant box
 tags: [ vagrant, vm, provisioning ]
 categories: [ vagrant, vm, packer ]
 series: [win-packer]

@@ -11,14 +11,14 @@ disqusShortname = "hugo-minima"
 # Author has some of your information to be shown on the home 
 # page of your blog.
 [author]
-name = "Friedrich Wilken"
-slogon = "Kubernetes and stuff 🌍"
-description = "😁"
+name = "friedrich wilken"
+# slogon = "Kubernetes and stuff 🌍"
+# description = "😁"
 
 
 [params]
 # iam is the beginning words of your self-introduction.
-iam = "I am"
+iam = "tech horse-hockey by"
 # The subtitle will be shown after the title of your blog site
 #  in a format "title - subtitle".
 subtitle = ""
