@@ -1,12 +1,13 @@
 --- 
-author: Friedrich Wilken
 title: hugo new post
 date: 2021-08-17T10:52:59+08:00
+author: Friedrich Wilken
 description: how to create a new post
 tags: [ markdown, hugo, ]
 categories: [ how-to, tech ]
 series: [hugo]
 toc: false 
+draft: false
 ---
 
 First, `cd` into your page's repo.
